@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lldecastro
 - 👀 I’m interested in data and the stories they tell
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on data sciencce projects
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 Reach me through email at leo.ld.castro@gmail.com
 
 <!---
